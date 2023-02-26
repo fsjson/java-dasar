@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Intro to IO Stream:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Intro_to_IO_Stream_jar</output-path>
+    <root id="archive" name="Intro to IO Stream.jar">
+      <element id="module-output" name="Intro to IO Stream" />
+    </root>
+  </artifact>
+</component>
